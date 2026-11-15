@@ -1,0 +1,25 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Pytest cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs & temp
+*.log
+.DS_Store
+Thumbs.db
+
+# Large models / HF cache if placed locally
+.cache/

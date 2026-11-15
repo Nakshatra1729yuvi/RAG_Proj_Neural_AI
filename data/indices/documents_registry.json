@@ -1,0 +1,42 @@
+{
+  "who_hypertension_guideline": {
+    "doc_id": "who_hypertension_guideline",
+    "filename": "who_hypertension_guideline.pdf",
+    "file_type": "pdf",
+    "file_size": 18297,
+    "num_pages": 9,
+    "num_chunks": 27,
+    "uploaded_at": "2026-11-15T12:48:57.912216",
+    "status": "indexed"
+  },
+  "who_diabetes_factsheet": {
+    "doc_id": "who_diabetes_factsheet",
+    "filename": "who_diabetes_factsheet.docx",
+    "file_type": "docx",
+    "file_size": 40538,
+    "num_pages": 12,
+    "num_chunks": 44,
+    "uploaded_at": "2026-11-15T12:48:58.465630",
+    "status": "indexed"
+  },
+  "who_asthma_guidance": {
+    "doc_id": "who_asthma_guidance",
+    "filename": "who_asthma_guidance.pdf",
+    "file_type": "pdf",
+    "file_size": 15789,
+    "num_pages": 8,
+    "num_chunks": 23,
+    "uploaded_at": "2026-11-15T12:48:58.726306",
+    "status": "indexed"
+  },
+  "who_cardiovascular_diseases": {
+    "doc_id": "who_cardiovascular_diseases",
+    "filename": "who_cardiovascular_diseases.txt",
+    "file_type": "txt",
+    "file_size": 10796,
+    "num_pages": 6,
+    "num_chunks": 27,
+    "uploaded_at": "2026-11-15T12:48:59.173245",
+    "status": "indexed"
+  }
+}

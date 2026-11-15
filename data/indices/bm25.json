@@ -1,0 +1,1822 @@
+{
+  "k1": 1.5,
+  "b": 0.75,
+  "delta": 1.0,
+  "chunks": [
+    {
+      "chunk_id": "who_hypertension_guideline_p1_c0",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 1,
+      "chunk_index": 0,
+      "text": "Hypertension\nSection 1: Key facts\n? An estimated 1.4 billion adults aged 30?79\n            years worldwide had hypertension in 2024; this represents 33% of the popluation in this age\nrange. ? Two-thirds of adults aged 30?79 years who have hypertension live in low- and\n            middle-income countries. ? An estimated 600 million adults with hypertension (44%) are unaware that they have the condition. ? Approximately 630 million adults with hypertension (44%) are diagnosed and treated. ?",
+      "section_heading": "Hypertension",
+      "char_length": 493,
+      "word_count": 74,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p1_c1",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 1,
+      "chunk_index": 1,
+      "text": "? Approximately 630 million adults with hypertension (44%) are diagnosed and treated. ? Approximately 320 million adults with hypertension (23%) have it under control. ? Hypertension is a major cause of premature death worldwide. ? One of the global targets for noncommunicable diseases is to reduce the prevalence of uncontrolled\nhypertension by 25% between 2010 and 2025. Page 1 of 9",
+      "section_heading": "Hypertension",
+      "char_length": 385,
+      "word_count": 61,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p2_c0",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 2,
+      "chunk_index": 0,
+      "text": "Hypertension\nSection 2: Overview\nHypertension (high blood pressure) is when the pressure in your blood vessels is too high (140/90\nmmHg or higher). It is common but can be serious if not treated. People with high blood pressure may not feel symptoms. The only way to know is to get your blood\npressure checked. Things that increase the risk of having high blood pressure include:\n? older age\n? genetics\n? being overweight or obese\n? not being physically active\n? high-salt diet\n?",
+      "section_heading": "Hypertension",
+      "char_length": 479,
+      "word_count": 84,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p2_c1",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 2,
+      "chunk_index": 1,
+      "text": "older age\n? genetics\n? being overweight or obese\n? not being physically active\n? high-salt diet\n? drinking too much alcohol\nLifestyle changes like eating a healthier diet, quitting tobacco and being more active can help lower\nblood pressure. Some people may still need to take medicines. Blood pressure is written as two numbers. The first (systolic) number represents the pressure in blood\nvessels when the heart contracts or beats.",
+      "section_heading": "Hypertension",
+      "char_length": 433,
+      "word_count": 71,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p2_c2",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 2,
+      "chunk_index": 2,
+      "text": "The second (diastolic) number represents the pressure in\nthe vessels when the heart rests between beats.Hypertension is diagnosed if, when it is measured on\ntwo different days, the systolic blood pressure readings on both days is ?140 mmHg and/or the\ndiastolic blood pressure readings on both days is ?90 mmHg. Page 2 of 9",
+      "section_heading": "Hypertension",
+      "char_length": 322,
+      "word_count": 54,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p3_c0",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 3,
+      "chunk_index": 0,
+      "text": "Hypertension\nSection 3: Risk factors\nModifiable risk factors include unhealthy diets (excessive salt consumption, a diet high in saturated fat\nand trans fats, low intake of fruits and vegetables), physical inactivity, consumption of tobacco and\nalcohol, and being overweight or obese. In addition, there are environmental risk factors for\nhypertension and associated diseases, where air pollution is the most significant.",
+      "section_heading": "Hypertension",
+      "char_length": 421,
+      "word_count": 60,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p3_c1",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 3,
+      "chunk_index": 1,
+      "text": "Non-modifiable risk\nfactors include a family history of hypertension, age over 65 years and co-existing diseases such as\ndiabetes or kidney disease. Page 3 of 9",
+      "section_heading": "Hypertension",
+      "char_length": 160,
+      "word_count": 26,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p4_c0",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 4,
+      "chunk_index": 0,
+      "text": "Hypertension\nSection 4: Symptoms\nMost people with hypertension don?t feel any symptoms. Very high blood pressures can\ncause headaches, blurred vision, chest pain and other symptoms. Checking your blood pressure is the best way to know if you have high blood pressure. If\nhypertension isn?t treated, it can cause other health conditions like kidney disease, heart disease and\nstroke. People with very high blood pressure (usually 180/120 or higher) can experience symptoms including:\n? severe headaches\n?",
+      "section_heading": "Hypertension",
+      "char_length": 503,
+      "word_count": 77,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p4_c1",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 4,
+      "chunk_index": 1,
+      "text": "severe headaches\n? chest pain\n? dizziness\n? difficulty breathing\n? nausea\n? vomiting\n? blurred vision or other vision changes\n? anxiety\n? confusion\n? buzzing in the ears\n? nosebleeds\n? abnormal heart rhythm\nIf you are experiencing any of these symptoms and a high blood pressure, seek care immediately. The only way to detect hypertension is to have a health professional measure blood pressure. Having\nblood pressure measured is quick and painless.",
+      "section_heading": "Hypertension",
+      "char_length": 449,
+      "word_count": 75,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p4_c2",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 4,
+      "chunk_index": 2,
+      "text": "Having\nblood pressure measured is quick and painless. Although individuals can measure their own blood\npressure using automated devices, an evaluation by a health professional is important for\nassessment of risk and associated conditions. Page 4 of 9",
+      "section_heading": "Hypertension",
+      "char_length": 250,
+      "word_count": 38,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p5_c0",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 5,
+      "chunk_index": 0,
+      "text": "Hypertension\nSection 5: Treatment\nLifestyle changes can help lower high blood pressure. These include:\n? eating a healthy, low-salt diet\n? losing weight\n? being physically active\n? quitting tobacco. If you have high blood pressure, your doctor may recommend one or more medicines. Your\nrecommended blood pressure goal may depend on what other health conditions you have. Blood pressure goal is less than 130/80 if you have:\n? cardiovascular disease (heart disease or stroke)\n? diabetes (high blood sugar)\n?",
+      "section_heading": "Hypertension",
+      "char_length": 506,
+      "word_count": 81,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p5_c1",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 5,
+      "chunk_index": 1,
+      "text": "cardiovascular disease (heart disease or stroke)\n? diabetes (high blood sugar)\n? chronic kidney disease\n? high risk for cardiovascular disease. For most people, the goal is to have a blood pressure less than 140/90. There are several common blood pressure medicines:\n? ACE inhibitors including enalapril and lisinopril relax blood vessels and prevent kidney damage. ? Angiotensin-2 receptor blockers (ARBs) including losartan and telmisartan relax blood vessels and\nprevent kidney damage. ?",
+      "section_heading": "Hypertension",
+      "char_length": 490,
+      "word_count": 73,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p5_c2",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 5,
+      "chunk_index": 2,
+      "text": "? Calcium channel blockers including amlodipine and felodipine relax blood vessels. ? Diuretics including hydrochlorothiazide and chlorthalidone eliminate extra water from the body,\nlowering blood pressure. Page 5 of 9",
+      "section_heading": "Hypertension",
+      "char_length": 218,
+      "word_count": 30,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p6_c0",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 6,
+      "chunk_index": 0,
+      "text": "Hypertension\nSection 6: Prevention\nLifestyle changes can help lower high blood pressure and can help anyone with hypertension. Many\nwho make these changes will still need to take medicine. These lifestyle changes can help prevent and lower high blood pressure. ? Eat more vegetables and fruits. ? Sit less. ?",
+      "section_heading": "Hypertension",
+      "char_length": 308,
+      "word_count": 50,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p6_c1",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 6,
+      "chunk_index": 1,
+      "text": "? Eat more vegetables and fruits. ? Sit less. ? Be more physically active, which can include walking, running, swimming, dancing or activities that\nbuild strength, like lifting weights.Get at least 150 minutes per week of moderate-intensity aerobic\nactivity or 75 minutes per week of vigorous aerobic activity.Do strength building exercises 2 or more\ndays each week. ? Get at least 150 minutes per week of moderate-intensity aerobic activity or 75 minutes per week of\nvigorous aerobic activity. ?",
+      "section_heading": "Hypertension",
+      "char_length": 496,
+      "word_count": 79,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p6_c2",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 6,
+      "chunk_index": 2,
+      "text": "? Do strength building exercises 2 or more days each week. ? Lose weight if you?re overweight or obese. ? Take medicines as prescribed by your health care professional. ? Keep appointments with your health care professional. ? Get at least 150 minutes per week of moderate-intensity aerobic activity or 75 minutes per week of\nvigorous aerobic activity. ? Do strength building exercises 2 or more days each week. ? eat too much salty food (try to stay under 2 grams per day)\n?",
+      "section_heading": "Hypertension",
+      "char_length": 475,
+      "word_count": 84,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p6_c3",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 6,
+      "chunk_index": 3,
+      "text": "? eat too much salty food (try to stay under 2 grams per day)\n? eat foods high in saturated or trans fats\n? smoke or use tobacco\n? drink too much alcohol (1 drink daily max for women, 2 for men)\n? miss or share medication. Reducing hypertension prevents heart attack, stroke and kidney damage, as well as other health\nproblems. Reduce the risks of hypertension by:\n? reducing and managing stress\n? regularly checking blood pressure\n? treating high blood pressure\n? managing other medical conditions\n?",
+      "section_heading": "Hypertension",
+      "char_length": 500,
+      "word_count": 89,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p6_c4",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 6,
+      "chunk_index": 4,
+      "text": "regularly checking blood pressure\n? treating high blood pressure\n? managing other medical conditions\n? reducing exposure to polluted air. Page 6 of 9",
+      "section_heading": "Hypertension",
+      "char_length": 149,
+      "word_count": 24,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p7_c0",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 7,
+      "chunk_index": 0,
+      "text": "Hypertension\nSection 7: Complications of uncontrolled hypertension\nAmong other complications, hypertension can cause serious damage to the heart. Excessive\npressure can harden arteries, decreasing the flow of blood and oxygen to the heart. This elevated\npressure and reduced blood flow can cause:\n? chest pain, also called angina;\n? heart attack, which occurs when the blood supply to the heart is blocked and heart muscle cells die\nfrom lack of oxygen.",
+      "section_heading": "Hypertension",
+      "char_length": 453,
+      "word_count": 71,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p7_c1",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 7,
+      "chunk_index": 1,
+      "text": "The longer the blood flow is blocked, the greater the damage to the heart;\n? heart failure, which occurs when the heart cannot pump enough blood and oxygen to other vital\nbody organs; and\n? irregular heart beat which can lead to a sudden death. Hypertension can also burst or block arteries that supply blood and oxygen to the brain, causing a\nstroke. In addition, hypertension can cause kidney damage, leading to kidney failure. Page 7 of 9",
+      "section_heading": "Hypertension",
+      "char_length": 441,
+      "word_count": 78,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p8_c0",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 8,
+      "chunk_index": 0,
+      "text": "Hypertension\nSection 8: Prevalence of hypertension\nThe prevalence of hypertension varies across regions and country income groups. The WHO Eastern\nMediterranean Region has the highest prevalence of hypertension (38%) while the WHO Western\nPacific Region has the lowest prevalence of hypertension (29%). The number of adults with hypertension increased from 650 million in 1990 to 1.4 billion in 2024, with\nthe increase seen largely in low- and middle-income countries.",
+      "section_heading": "Hypertension",
+      "char_length": 468,
+      "word_count": 69,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p8_c1",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 8,
+      "chunk_index": 1,
+      "text": "This increase is due mainly to a rise in\nthe number of older adults in those countries. Page 8 of 9",
+      "section_heading": "Hypertension",
+      "char_length": 99,
+      "word_count": 21,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p9_c0",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 9,
+      "chunk_index": 0,
+      "text": "Hypertension\nSection 9: WHO response\nThe World Health Organization (WHO) supports countries to reduce hypertension as a public health\nproblem. In 2021, WHO released a new guideline for on the pharmacological treatment of hypertension in\nadults. The publication provides evidence-based recommendations for the initiation of treatment of\nhypertension, and recommended intervals for follow-up.",
+      "section_heading": "Hypertension",
+      "char_length": 390,
+      "word_count": 53,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p9_c1",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 9,
+      "chunk_index": 1,
+      "text": "The document also includes target blood\npressure to be achieved for control, and information on who, in the health-care system, can initiate\ntreatment. To support governments in strengthening the prevention and control of cardiovascular disease, WHO\nand the United States Centers for Disease Control and Prevention (U.S. CDC) launched the Global\nHearts Initiative in September 2016, which includes the HEARTS technical package.",
+      "section_heading": "Hypertension",
+      "char_length": 427,
+      "word_count": 62,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p9_c2",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 9,
+      "chunk_index": 2,
+      "text": "The six modules\nof the HEARTS technical package (Healthy-lifestyle counselling, Evidence-based treatment protocols,\nAccess to essential medicines and technology, Risk-based management, Team-based care, and\nSystems for monitoring) provide a strategic approach to improve cardiovascular health in countries\nacross the world.",
+      "section_heading": "Hypertension",
+      "char_length": 322,
+      "word_count": 40,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p9_c3",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 9,
+      "chunk_index": 3,
+      "text": "In September 2017, WHO began a partnership with Resolve to Save Lives, an initiative of Vital\nStrategies, to support national governments to implement the Global Hearts Initiative. Other partners\ncontributing to the Global Hearts Initiative are the CDC Foundation, the Global Health Advocacy\nIncubator, the Johns Hopkins Bloomberg School of Public Health, the Pan American Health\nOrganization (PAHO) and the U.S. CDC.",
+      "section_heading": "Hypertension",
+      "char_length": 417,
+      "word_count": 62,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_hypertension_guideline_p9_c4",
+      "doc_id": "who_hypertension_guideline",
+      "filename": "who_hypertension_guideline.pdf",
+      "page_number": 9,
+      "chunk_index": 4,
+      "text": "CDC. Since implementation of the programme in 2017, in more\nthan 40 low- and middle-income countries, 13.5 million people have been put on protocol-based\nhypertension treatment through person-centred models of care. These programmes demonstrate the\nfeasibility and effectiveness of standardized hypertension control programmes. Page 9 of 9",
+      "section_heading": "Hypertension",
+      "char_length": 339,
+      "word_count": 47,
+      "metadata": {
+        "total_pages": 9,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p1_c0",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 1,
+      "chunk_index": 0,
+      "text": "Diabetes",
+      "section_heading": "Diabetes",
+      "char_length": 8,
+      "word_count": 1,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c0",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 0,
+      "text": "Overview Key factsThe number of people living with diabetes rose from 200\u00a0million in 1990 to 830\u00a0million in 2022. Prevalence has been rising more rapidly in low- and middle-income countries than in high-income countries.More than half of people living with diabetes did not take medication for their diabetes in 2022.",
+      "section_heading": "Overview",
+      "char_length": 317,
+      "word_count": 51,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c1",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 1,
+      "text": "Diabetes treatment coverage was lowest in low- and middle-income countries.Diabetes causes blindness, kidney failure, heart attacks, stroke and lower limb amputation.In 2023, diabetes and kidney disease due to diabetes caused around 2.4\u00a0million deaths.",
+      "section_heading": "Overview",
+      "char_length": 252,
+      "word_count": 34,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c2",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 2,
+      "text": "In addition, around 10% of cardiovascular deaths were caused by high blood glucose.A healthy diet, regular physical activity, maintaining a normal body weight and avoiding tobacco use are ways to prevent or delay the onset of type 2 diabetes.Diabetes can be treated with diet, physical activity and medication, and its consequences avoided through regular screening for complications and timely treatment.OverviewDiabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces.",
+      "section_heading": "Overview",
+      "char_length": 576,
+      "word_count": 86,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c3",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 3,
+      "text": "Insulin is a hormone that regulates blood glucose. Hyperglycaemia, also called raised blood glucose or raised blood sugar, is a common effect of uncontrolled diabetes and over time leads to serious damage to many of the body's systems, especially the nerves and blood vessels. In 2022, 14% of adults aged 18 years and older were living with diabetes, an increase from 7% in 1990.",
+      "section_heading": "Overview",
+      "char_length": 379,
+      "word_count": 64,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c4",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 4,
+      "text": "More than half (59%) of adults aged 30 years and over living with diabetes were not taking medication for their diabetes in 2022. Diabetes treatment coverage was lowest in low- and middle-income countries.In 2023, diabetes was the direct cause of 2.0\u00a0million deaths and 44% of all deaths due to diabetes occurred before the age of 70 years.",
+      "section_heading": "Overview",
+      "char_length": 340,
+      "word_count": 58,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c5",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 5,
+      "text": "Another 390\u00a0000 kidney disease deaths were caused by diabetes, and high blood glucose causes around 10% of cardiovascular deaths (1).Since 2000, mortality rates from diabetes have been increasing. By contrast, the probability of dying from any one of the four main noncommunicable diseases (cardiovascular diseases, cancer, chronic respiratory diseases or diabetes) between the ages of 30 and 70 decreased by 21% globally between 2000 and 2023. SymptomsSymptoms of diabetes may occur suddenly.",
+      "section_heading": "Overview",
+      "char_length": 493,
+      "word_count": 73,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c6",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 6,
+      "text": "SymptomsSymptoms of diabetes may occur suddenly. In type 2 diabetes, the symptoms can be mild and may take many years to be noticed.Symptoms of diabetes include: feeling very thirstyneeding to urinate more often than usual blurred visionfeeling tiredlosing weight unintentionally.Over time, diabetes can damage blood vessels in the heart, eyes, kidneys and nerves.People with diabetes have a higher risk of health problems including heart attack, stroke and kidney failure.Diabetes can cause permanent vision loss by damaging blood vessels in the eyes.Many people with diabetes develop problems with their feet from nerve damage and poor blood flow.",
+      "section_heading": "Overview",
+      "char_length": 649,
+      "word_count": 96,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c7",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 7,
+      "text": "This can cause foot ulcers and may lead to amputation.Type 1 diabetesType 1 diabetes (previously known as insulin-dependent, juvenile or childhood-onset) is characterized by deficient insulin production and requires daily administration of insulin. In 2025 there were around 9.5 million people with type 1 diabetes, with more than 500\u00a0000 new cases diagnosed; the majority of them live in high-income countries (2).",
+      "section_heading": "Overview",
+      "char_length": 415,
+      "word_count": 62,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c8",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 8,
+      "text": "Neither its cause nor the means to prevent it are known.Type 2 diabetesType 2 diabetes affects how your body uses sugar (glucose) for energy. It stops the body from using insulin properly, which can lead to high levels of blood sugar if not treated. Over time, type 2 diabetes can cause serious damage to the body, especially nerves and blood vessels.Type 2 diabetes is often preventable.",
+      "section_heading": "Overview",
+      "char_length": 388,
+      "word_count": 66,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c9",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 9,
+      "text": "Factors that contribute to developing type 2 diabetes include being overweight, not getting enough exercise, and genetics. Early diagnosis is important to prevent the worst effects of type 2 diabetes. The best way to detect diabetes early is to get regular check-ups and blood tests with a health-care provider. Symptoms of type 2 diabetes can be mild. They may take several years to be noticed. Symptoms may be similar to those of type 1 diabetes but are often less marked.",
+      "section_heading": "Overview",
+      "char_length": 474,
+      "word_count": 80,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c10",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 10,
+      "text": "Symptoms may be similar to those of type 1 diabetes but are often less marked. As a result, the disease may be diagnosed several years after onset, after complications have already arisen.More than 95% of people with diabetes have type 2 diabetes. Type 2 diabetes was formerly called non-insulin dependent, or adult onset.",
+      "section_heading": "Overview",
+      "char_length": 322,
+      "word_count": 53,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c11",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 11,
+      "text": "Type 2 diabetes was formerly called non-insulin dependent, or adult onset. Until recently, this type of diabetes was seen only in adults but it is now also occurring increasingly frequently in children.Gestational diabetesGestational diabetes is hyperglycaemia with blood glucose values above normal but below those diagnostic of diabetes. Gestational diabetes occurs during pregnancy.Women with gestational diabetes are at an increased risk of complications during pregnancy and at delivery.",
+      "section_heading": "Overview",
+      "char_length": 492,
+      "word_count": 68,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c12",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 12,
+      "text": "These women and possibly their children are also at increased risk of type 2 diabetes in the future.Gestational diabetes is diagnosed through prenatal screening, rather than through reported symptoms.Impaired glucose tolerance and impaired fasting glycaemiaImpaired glucose tolerance (IGT) and impaired fasting glycaemia (IFG) are intermediate conditions in the transition between normality and diabetes.",
+      "section_heading": "Overview",
+      "char_length": 404,
+      "word_count": 53,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c13",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 13,
+      "text": "People with IGT or IFG are at high risk of progressing to type 2 diabetes, although this is not inevitable.PreventionLifestyle changes are the best way to prevent or delay the onset of type 2 diabetes.To help prevent type 2 diabetes and its complications, people should: reach and keep a health body weightstay physically active with at least 150 minutes of moderate exercise each week eat a healthy diet and avoid sugar and saturated fatnot smoke tobacco.Diagnosis and treatmentEarly diagnosis can be accomplished through relatively inexpensive testing of blood glucose.",
+      "section_heading": "Overview",
+      "char_length": 571,
+      "word_count": 89,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c14",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 14,
+      "text": "People with type 1 diabetes need insulin injections for survival.One of the most important ways to treat diabetes is to keep a healthy lifestyle. Some people with type 2 diabetes will need to take medicines to help manage their blood sugar levels. These can include insulin injections or other medicines.",
+      "section_heading": "Overview",
+      "char_length": 304,
+      "word_count": 50,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c15",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 15,
+      "text": "These can include insulin injections or other medicines. Some examples include: metforminsulfonylureassodium-glucose co-transporters type 2 (SGLT-2) inhibitors.Along with medicines to lower blood sugar, people with diabetes often need medications to lower their blood pressure and statins to reduce the risk of complications.",
+      "section_heading": "Overview",
+      "char_length": 325,
+      "word_count": 42,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c16",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 16,
+      "text": "Additional medical care may be needed to treat the effects of diabetes:foot care to treat ulcersscreening and treatment for kidney diseaseeye exams to screen for retinopathy (which causes blindness).WHO responseWHO aims to stimulate and support the adoption of effective measures for the surveillance, prevention and control of diabetes and its complications, particularly in low- and middle-income countries.",
+      "section_heading": "Overview",
+      "char_length": 409,
+      "word_count": 57,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c17",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 17,
+      "text": "To this end, WHO:provides scientific guidelines for the prevention of major noncommunicable diseases including diabetes;develops norms and standards for diabetes diagnosis and care;builds awareness on the global epidemic of diabetes, marking World Diabetes Day (14 November); andconducts surveillance of diabetes and its risk factors.In April 2021 WHO launched the Global Diabetes Compact, a global initiative aiming for sustained improvements in diabetes prevention and care, with a particular focus on supporting low- and middle-income countries.",
+      "section_heading": "Overview",
+      "char_length": 548,
+      "word_count": 74,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c18",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 18,
+      "text": "In May 2021, the World Health Assembly agreed a Resolution on strengthening prevention and control of diabetes. In May 2022 the World Health Assembly endorsed five global diabetes coverage targets to be achieved by 2030.To learn more about the Global Diabetes Compact, to access diabetes-related technical publications to get involved in upcoming initiatives, visit the Global Diabetes Compact webpage. References1)\u00a0Institute for Health Metrics and Evaluation (IHME). GBD Results.",
+      "section_heading": "Overview",
+      "char_length": 480,
+      "word_count": 69,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c19",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 19,
+      "text": "References1)\u00a0Institute for Health Metrics and Evaluation (IHME). GBD Results. Seattle, WA: IHME, University of Washington, 2025. https://vizhub.healthdata.org/gbd-results/2) Ogle GD, Wang F, Haynes A, Gregory GA, King TW, Deng K, Dabelea D, James S, Jenkins AJ, Li X, Ma RCW, Maahs DM, Oram RA, Pihoker C, Svensson J, Zhou Z, Magliano DJ, Maniam J.",
+      "section_heading": "Overview",
+      "char_length": 348,
+      "word_count": 54,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p2_c20",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 2,
+      "chunk_index": 20,
+      "text": "Global type 1 diabetes prevalence, incidence, and mortality estimates 2025: Results from the International diabetes Federation Atlas, 11th Edition, and the T1D Index Version 3.0\u2028Diabetes Research and Clinical Practice, 2025; 225 10.1016/j.diabres.2025.112277",
+      "section_heading": "Overview",
+      "char_length": 258,
+      "word_count": 33,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p3_c0",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 3,
+      "chunk_index": 0,
+      "text": "Key facts The number of people living with diabetes rose from 200\u00a0million in 1990 to 830\u00a0million in 2022. Prevalence has been rising more rapidly in low- and middle-income countries than in high-income countries. More than half of people living with diabetes did not take medication for their diabetes in 2022. Diabetes treatment coverage was lowest in low- and middle-income countries. Diabetes causes blindness, kidney failure, heart attacks, stroke and lower limb amputation.",
+      "section_heading": "Key facts",
+      "char_length": 478,
+      "word_count": 74,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p3_c1",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 3,
+      "chunk_index": 1,
+      "text": "Diabetes causes blindness, kidney failure, heart attacks, stroke and lower limb amputation. In 2023, diabetes and kidney disease due to diabetes caused around 2.4\u00a0million deaths. In addition, around 10% of cardiovascular deaths were caused by high blood glucose. A healthy diet, regular physical activity, maintaining a normal body weight and avoiding tobacco use are ways to prevent or delay the onset of type 2 diabetes.",
+      "section_heading": "Key facts",
+      "char_length": 422,
+      "word_count": 66,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p3_c2",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 3,
+      "chunk_index": 2,
+      "text": "Diabetes can be treated with diet, physical activity and medication, and its consequences avoided through regular screening for complications and timely treatment.",
+      "section_heading": "Key facts",
+      "char_length": 163,
+      "word_count": 22,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p4_c0",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 4,
+      "chunk_index": 0,
+      "text": "Overview In 2022, 14% of adults aged 18 years and older were living with diabetes, an increase from 7% in 1990. More than half (59%) of adults aged 30 years and over living with diabetes were not taking medication for their diabetes in 2022. Diabetes treatment coverage was lowest in low- and middle-income countries. In 2023, diabetes was the direct cause of 2.0\u00a0million deaths and 44% of all deaths due to diabetes occurred before the age of 70 years.",
+      "section_heading": "Overview",
+      "char_length": 453,
+      "word_count": 80,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p4_c1",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 4,
+      "chunk_index": 1,
+      "text": "Another 390\u00a0000 kidney disease deaths were caused by diabetes, and high blood glucose causes around 10% of cardiovascular deaths (1). Since 2000, mortality rates from diabetes have been increasing. By contrast, the probability of dying from any one of the four main noncommunicable diseases (cardiovascular diseases, cancer, chronic respiratory diseases or diabetes) between the ages of 30 and 70 decreased by 21% globally between 2000 and 2023.",
+      "section_heading": "Overview",
+      "char_length": 445,
+      "word_count": 68,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p5_c0",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 5,
+      "chunk_index": 0,
+      "text": "Symptoms Symptoms of diabetes may occur suddenly. In type 2 diabetes, the symptoms can be mild and may take many years to be noticed. Symptoms of diabetes include: feeling very thirsty needing to urinate more often than usual blurred vision feeling tired losing weight unintentionally. Over time, diabetes can damage blood vessels in the heart, eyes, kidneys and nerves. People with diabetes have a higher risk of health problems including heart attack, stroke and kidney failure.",
+      "section_heading": "feeling tired",
+      "char_length": 480,
+      "word_count": 76,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p5_c1",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 5,
+      "chunk_index": 1,
+      "text": "Diabetes can cause permanent vision loss by damaging blood vessels in the eyes. Many people with diabetes develop problems with their feet from nerve damage and poor blood flow. This can cause foot ulcers and may lead to amputation.",
+      "section_heading": "feeling tired",
+      "char_length": 232,
+      "word_count": 39,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p6_c0",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 6,
+      "chunk_index": 0,
+      "text": "Type 1 diabetes Type 1 diabetes (previously known as insulin-dependent, juvenile or childhood-onset) is characterized by deficient insulin production and requires daily administration of insulin. In 2025 there were around 9.5 million people with type 1 diabetes, with more than 500\u00a0000 new cases diagnosed; the majority of them live in high-income countries (2). Neither its cause nor the means to prevent it are known.",
+      "section_heading": "Type 1 diabetes",
+      "char_length": 419,
+      "word_count": 65,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p7_c0",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 7,
+      "chunk_index": 0,
+      "text": "Type 2 diabetes Type 2 diabetes affects how your body uses sugar (glucose) for energy. It stops the body from using insulin properly, which can lead to high levels of blood sugar if not treated. Over time, type 2 diabetes can cause serious damage to the body, especially nerves and blood vessels. Type 2 diabetes is often preventable. Factors that contribute to developing type 2 diabetes include being overweight, not getting enough exercise, and genetics.",
+      "section_heading": "Type 2 diabetes",
+      "char_length": 457,
+      "word_count": 75,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p7_c1",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 7,
+      "chunk_index": 1,
+      "text": "Early diagnosis is important to prevent the worst effects of type 2 diabetes. The best way to detect diabetes early is to get regular check-ups and blood tests with a health-care provider. Symptoms of type 2 diabetes can be mild. They may take several years to be noticed. Symptoms may be similar to those of type 1 diabetes but are often less marked. As a result, the disease may be diagnosed several years after onset, after complications have already arisen.",
+      "section_heading": "Type 2 diabetes",
+      "char_length": 461,
+      "word_count": 80,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p7_c2",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 7,
+      "chunk_index": 2,
+      "text": "More than 95% of people with diabetes have type 2 diabetes. Type 2 diabetes was formerly called non-insulin dependent, or adult onset. Until recently, this type of diabetes was seen only in adults but it is now also occurring increasingly frequently in children.",
+      "section_heading": "Type 2 diabetes",
+      "char_length": 262,
+      "word_count": 43,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p8_c0",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 8,
+      "chunk_index": 0,
+      "text": "Gestational diabetes Gestational diabetes is hyperglycaemia with blood glucose values above normal but below those diagnostic of diabetes. Gestational diabetes occurs during pregnancy. Women with gestational diabetes are at an increased risk of complications during pregnancy and at delivery. These women and possibly their children are also at increased risk of type 2 diabetes in the future. Gestational diabetes is diagnosed through prenatal screening, rather than through reported symptoms.",
+      "section_heading": "Gestational diabetes",
+      "char_length": 494,
+      "word_count": 69,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p9_c0",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 9,
+      "chunk_index": 0,
+      "text": "Impaired glucose tolerance and impaired fasting glycaemia Impaired glucose tolerance (IGT) and impaired fasting glycaemia (IFG) are intermediate conditions in the transition between normality and diabetes. People with IGT or IFG are at high risk of progressing to type 2 diabetes, although this is not inevitable.",
+      "section_heading": "Impaired glucose tolerance and impaired fasting glycaemia",
+      "char_length": 313,
+      "word_count": 46,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p10_c0",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 10,
+      "chunk_index": 0,
+      "text": "Prevention Lifestyle changes are the best way to prevent or delay the onset of type 2 diabetes. To help prevent type 2 diabetes and its complications, people should: reach and keep a health body weight stay physically active with at least 150 minutes of moderate exercise each week eat a healthy diet and avoid sugar and saturated fat not smoke tobacco.",
+      "section_heading": "eat a healthy diet and avoid sugar and saturated fat",
+      "char_length": 353,
+      "word_count": 61,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p11_c0",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 11,
+      "chunk_index": 0,
+      "text": "Diagnosis and treatment Early diagnosis can be accomplished through relatively inexpensive testing of blood glucose. People with type 1 diabetes need insulin injections for survival. One of the most important ways to treat diabetes is to keep a healthy lifestyle. Some people with type 2 diabetes will need to take medicines to help manage their blood sugar levels. These can include insulin injections or other medicines. Some examples include: metformin sulfonylureas",
+      "section_heading": "sulfonylureas",
+      "char_length": 469,
+      "word_count": 71,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p11_c1",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 11,
+      "chunk_index": 1,
+      "text": "These can include insulin injections or other medicines. Some examples include: metformin sulfonylureas sodium-glucose co-transporters type 2 (SGLT-2) inhibitors. Along with medicines to lower blood sugar, people with diabetes often need medications to lower their blood pressure and statins to reduce the risk of complications. Additional medical care may be needed to treat the effects of diabetes: foot care to treat ulcers screening and treatment for kidney disease",
+      "section_heading": "screening and treatment for kidney disease",
+      "char_length": 469,
+      "word_count": 68,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p11_c2",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 11,
+      "chunk_index": 2,
+      "text": "foot care to treat ulcers screening and treatment for kidney disease eye exams to screen for retinopathy (which causes blindness).",
+      "section_heading": "screening and treatment for kidney disease",
+      "char_length": 130,
+      "word_count": 20,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p12_c0",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 12,
+      "chunk_index": 0,
+      "text": "WHO response WHO aims to stimulate and support the adoption of effective measures for the surveillance, prevention and control of diabetes and its complications, particularly in low- and middle-income countries. To this end, WHO: provides scientific guidelines for the prevention of major noncommunicable diseases including diabetes; develops norms and standards for diabetes diagnosis and care; builds awareness on the global epidemic of diabetes, marking World Diabetes Day (14 November); and",
+      "section_heading": "WHO response",
+      "char_length": 494,
+      "word_count": 70,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p12_c1",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 12,
+      "chunk_index": 1,
+      "text": "builds awareness on the global epidemic of diabetes, marking World Diabetes Day (14 November); and conducts surveillance of diabetes and its risk factors. In April 2021 WHO launched the Global Diabetes Compact, a global initiative aiming for sustained improvements in diabetes prevention and care, with a particular focus on supporting low- and middle-income countries. In May 2021, the World Health Assembly agreed a Resolution on strengthening prevention and control of diabetes.",
+      "section_heading": "WHO response",
+      "char_length": 481,
+      "word_count": 71,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p12_c2",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 12,
+      "chunk_index": 2,
+      "text": "In May 2022 the World Health Assembly endorsed five global diabetes coverage targets to be achieved by 2030. To learn more about the Global Diabetes Compact, to access diabetes-related technical publications to get involved in upcoming initiatives, visit the Global Diabetes Compact webpage. 1)\u00a0Institute for Health Metrics and Evaluation (IHME). GBD Results. Seattle, WA: IHME, University of Washington, 2025. https://vizhub.healthdata.org/gbd-results/",
+      "section_heading": "WHO response",
+      "char_length": 453,
+      "word_count": 61,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p12_c3",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 12,
+      "chunk_index": 3,
+      "text": "Seattle, WA: IHME, University of Washington, 2025. https://vizhub.healthdata.org/gbd-results/ 2) Ogle GD, Wang F, Haynes A, Gregory GA, King TW, Deng K, Dabelea D, James S, Jenkins AJ, Li X, Ma RCW, Maahs DM, Oram RA, Pihoker C, Svensson J, Zhou Z, Magliano DJ, Maniam J.",
+      "section_heading": "WHO response",
+      "char_length": 271,
+      "word_count": 45,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_diabetes_factsheet_p12_c4",
+      "doc_id": "who_diabetes_factsheet",
+      "filename": "who_diabetes_factsheet.docx",
+      "page_number": 12,
+      "chunk_index": 4,
+      "text": "Global type 1 diabetes prevalence, incidence, and mortality estimates 2025: Results from the International diabetes Federation Atlas, 11th Edition, and the T1D Index Version 3.0\u2028Diabetes Research and Clinical Practice, 2025; 225 10.1016/j.diabres.2025.112277",
+      "section_heading": "WHO response",
+      "char_length": 258,
+      "word_count": 33,
+      "metadata": {
+        "total_pages": 12,
+        "file_type": "docx"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p1_c0",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 1,
+      "chunk_index": 0,
+      "text": "Asthma\nSection 1: Overview\n? Asthma is a major noncommunicable disease (NCD), affecting both children and adults, and is the\nmost common chronic disease among children. ? Inflammation and narrowing of the small airways in the lungs cause asthma symptoms, which can\nbe any combination of cough, wheeze, shortness of breath and chest tightness. ? Asthma affected an estimated 363 million people in 2023 (1) and caused 442 000 deaths. ?",
+      "section_heading": "Asthma",
+      "char_length": 433,
+      "word_count": 71,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p1_c1",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 1,
+      "chunk_index": 1,
+      "text": "? Asthma affected an estimated 363 million people in 2023 (1) and caused 442 000 deaths. ? Inhaled medication can control asthma symptoms and allow people with asthma to lead a normal,\nactive life. ? Avoiding asthma triggers can also help to reduce asthma symptoms. ? Most asthma-related deaths occur in low- and lower-middle-income countries, where\nunder-diagnosis and under-treatment is a challenge. ?",
+      "section_heading": "Asthma",
+      "char_length": 403,
+      "word_count": 63,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p1_c2",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 1,
+      "chunk_index": 2,
+      "text": "? WHO is committed to improving the diagnosis, treatment and monitoring of asthma to reduce the\nglobal burden of NCDs and make progress towards universal health coverage. Page 1 of 8",
+      "section_heading": "Asthma",
+      "char_length": 182,
+      "word_count": 31,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p2_c0",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 2,
+      "chunk_index": 0,
+      "text": "Asthma\nSection 2: Overview\nAsthma is a chronic lung disease affecting people of all ages. It is caused by inflammation and\nmuscle tightening around the airways, which makes it harder to breathe. Symptoms can include coughing, wheezing, shortness of breath and chest tightness. These\nsymptoms can be mild or severe and can come and go over time. Although asthma can be a serious condition, it can be managed with the right treatment. People with\nsymptoms of asthma should speak to a health professional.",
+      "section_heading": "Asthma",
+      "char_length": 502,
+      "word_count": 83,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p2_c1",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 2,
+      "chunk_index": 1,
+      "text": "People with\nsymptoms of asthma should speak to a health professional. Page 2 of 8",
+      "section_heading": "Asthma",
+      "char_length": 81,
+      "word_count": 15,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p3_c0",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 3,
+      "chunk_index": 0,
+      "text": "Asthma\nSection 3: Impact\nAsthma is often under-diagnosed and under-treated, particularly in low- and middle-income countries. People with under-treated asthma can suffer sleep disturbance, tiredness during the day, and poor\nconcentration. Asthma sufferers and their families may miss school and work, with financial impact on\nthe family and wider community.",
+      "section_heading": "Asthma",
+      "char_length": 357,
+      "word_count": 50,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p3_c1",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 3,
+      "chunk_index": 1,
+      "text": "If symptoms are severe, people with asthma may need to receive\nemergency health care and they may be admitted to hospital for treatment and monitoring. In the\nmost severe cases, asthma can lead to death. Page 3 of 8",
+      "section_heading": "Asthma",
+      "char_length": 215,
+      "word_count": 39,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p4_c0",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 4,
+      "chunk_index": 0,
+      "text": "Asthma\nSection 4: Symptoms\nSymptoms of asthma can vary from person to person. Symptoms sometimes get significantly worse. This is known as an asthma attack. Symptoms are often worse at night or during exercise. Common symptoms of asthma include:\n? a persistent cough, especially at night\n? wheezing when exhaling and sometimes when inhaling\n? shortness of breath or difficulty breathing, sometimes even when resting\n? chest tightness, making it difficult to breathe deeply.",
+      "section_heading": "Asthma",
+      "char_length": 473,
+      "word_count": 74,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p4_c1",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 4,
+      "chunk_index": 1,
+      "text": "chest tightness, making it difficult to breathe deeply. Some people will have worse symptoms when they have a cold or during changes in the weather. Other triggers can include dust, smoke, fumes, grass and tree pollen, animal fur and feathers, strong\nsoaps and perfume. Symptoms can be caused by other conditions as well. People with symptoms should talk to a\nhealthcare provider. Page 4 of 8",
+      "section_heading": "Asthma",
+      "char_length": 392,
+      "word_count": 66,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p5_c0",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 5,
+      "chunk_index": 0,
+      "text": "Asthma\nSection 5: Causes\nMany factors have been linked to an increased risk of developing asthma, although it is often difficult\nto find a single, direct cause. ? Asthma is more likely if other family members also have asthma ? particularly a close relative, such\nas a parent or sibling. ? Asthma is more likely in people who have other allergic conditions, such as eczema and rhinitis\n(hay fever). ? Urbanization is associated with increased asthma prevalence, probably due to multiple lifestyle\nfactors. ?",
+      "section_heading": "Asthma",
+      "char_length": 507,
+      "word_count": 84,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p5_c1",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 5,
+      "chunk_index": 1,
+      "text": "? Events in early life affect the developing lungs and can increase the risk of asthma. These include\nlow birth weight, prematurity, exposure to tobacco smoke and other sources of air pollution, as well as\nviral respiratory infections. ? Exposure to a range of environmental allergens and irritants are also thought to increase the risk of\nasthma, including indoor and outdoor air pollution, house dust mites, moulds, and occupational\nexposure to chemicals, fumes or dust. ?",
+      "section_heading": "Asthma",
+      "char_length": 474,
+      "word_count": 76,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p5_c2",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 5,
+      "chunk_index": 2,
+      "text": "? Children and adults who are overweight or obese are at a greater risk of asthma. Page 5 of 8",
+      "section_heading": "Asthma",
+      "char_length": 94,
+      "word_count": 20,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p6_c0",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 6,
+      "chunk_index": 0,
+      "text": "Asthma\nSection 6: Treatment\nAsthma cannot be cured but there are several treatments available. The most common treatment is to\nuse an inhaler, which delivers medication directly to the lungs. Inhalers can help control the disease and enable people with asthma to enjoy a normal, active life. There are three main types of inhaler:\n? bronchodilators (such as salbutamol), that open the air passages and relieve symptoms;\n?",
+      "section_heading": "Asthma",
+      "char_length": 421,
+      "word_count": 68,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p6_c1",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 6,
+      "chunk_index": 1,
+      "text": "bronchodilators (such as salbutamol), that open the air passages and relieve symptoms;\n? steroids (such as beclometasone) that reduce inflammation in the air passages, which improves\nasthma symptoms and reduces the risk of severe asthma attacks and death; and\n? combination inhalers which contain both a bronchodilator and steroid. People with asthma may need to use their inhaler every day. Their treatment will depend on the\nfrequency of symptoms and the types of inhalers available.",
+      "section_heading": "Asthma",
+      "char_length": 485,
+      "word_count": 75,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p6_c2",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 6,
+      "chunk_index": 2,
+      "text": "Their treatment will depend on the\nfrequency of symptoms and the types of inhalers available. Using an inhaler can be difficult, especially for children and during emergency situations. Using a\nspacer device makes it easier to use an aerosol inhaler. This helps the medicine to reach the lungs\nmore easily. A spacer is a plastic container with a mouthpiece or mask at one end and a hole for the\ninhaler in the other.",
+      "section_heading": "Asthma",
+      "char_length": 416,
+      "word_count": 73,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p6_c3",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 6,
+      "chunk_index": 3,
+      "text": "A homemade spacer, made from a 500ml plastic bottle, can be as effective as\ncommercially manufactured spacers. Access to inhalers is a problem in many countries. In 2023, potentially lifesaving bronchodilators were\navailable in public primary health care facilities in less than two thirds of low- and low-middle income\ncountries, and steroid inhalers available in less than half. It is also important to raise community awareness to reduce the myths and stigma associated with\nasthma in some settings.",
+      "section_heading": "Asthma",
+      "char_length": 502,
+      "word_count": 78,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p6_c4",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 6,
+      "chunk_index": 4,
+      "text": "Page 6 of 8",
+      "section_heading": "Asthma",
+      "char_length": 11,
+      "word_count": 4,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p7_c0",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 7,
+      "chunk_index": 0,
+      "text": "Asthma\nSection 7: Self-care\nPeople with asthma and their families need education to understand more about their asthma. This\nincludes their treatment options, triggers to avoid, and how to manage their symptoms at home. It is important for people with asthma to know how to increase their treatment when their symptoms\nare worsening to avoid a serious attack. Healthcare providers may give an asthma action plan to help\npeople with asthma to take greater control of their treatment. Page 7 of 8",
+      "section_heading": "Asthma",
+      "char_length": 494,
+      "word_count": 82,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p8_c0",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 8,
+      "chunk_index": 0,
+      "text": "Asthma\nSection 8: WHO response\nAsthma is included in the WHO Global Action Plan for the Prevention and Control of NCDs and the\nUnited Nations 2030 Agenda for Sustainable Development. WHO is taking action to extend diagnosis of and treatment for asthma in a number of ways. The WHO Package of Essential Noncommunicable Disease Interventions (PEN) was developed to\nhelp improve NCD management in primary health care in low-resource settings.",
+      "section_heading": "Asthma",
+      "char_length": 439,
+      "word_count": 70,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p8_c1",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 8,
+      "chunk_index": 1,
+      "text": "PEN includes\nprotocols for the assessment, diagnosis and management of chronic respiratory diseases (asthma\nand chronic obstructive pulmonary disease), and modules on healthy lifestyle counselling, including\ntobacco cessation and self-care. WHO is currently developing new guidelines for the diagnosis and management of asthma in primary\ncare. Reducing tobacco smoke exposure is important for both primary prevention of asthma and disease\nmanagement.",
+      "section_heading": "Asthma",
+      "char_length": 450,
+      "word_count": 61,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p8_c2",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 8,
+      "chunk_index": 2,
+      "text": "The Framework Convention on Tobacco Control is enabling progress in this area as\nare WHO initiatives such as MPOWER and mTobacco Cessation. Air pollution is an important risk factor for asthma, causing new cases and making existing disease\nworse. WHO has developed training for health care workers on air pollution which highlights this link\nand offers practical advice to reduce and mitigate exposure.",
+      "section_heading": "Asthma",
+      "char_length": 402,
+      "word_count": 63,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p8_c3",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 8,
+      "chunk_index": 3,
+      "text": "The Global Alliance against Chronic Respiratory Diseases (GARD) contributes to WHO?s work to\nprevent and control chronic respiratory diseases. GARD is a voluntary alliance of national and\ninternational organizations and agencies from many countries committed to the vision of a world\nwhere all people breathe freely. 1) Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2023 (GBD\n2023). Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2025.",
+      "section_heading": "Asthma",
+      "char_length": 497,
+      "word_count": 72,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_asthma_guidance_p8_c4",
+      "doc_id": "who_asthma_guidance",
+      "filename": "who_asthma_guidance.pdf",
+      "page_number": 8,
+      "chunk_index": 4,
+      "text": "Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2025. Page 8 of 8",
+      "section_heading": "Asthma",
+      "char_length": 93,
+      "word_count": 15,
+      "metadata": {
+        "total_pages": 8,
+        "file_type": "pdf"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p1_c0",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 1,
+      "chunk_index": 0,
+      "text": "Cardiovascular diseases (CVDs)\n============================== ## Key facts \u2022 Cardiovascular diseases (CVDs) are the leading cause of death      globally. \u2022 An estimated 19.8 million people died from CVDs in 2022,      representing approximately 32% of all global deaths. Of these deaths, 85% were due to      heart attack and stroke. \u2022 Over three quarters of CVD deaths take place in low- and      middle-income countries.",
+      "section_heading": "## Key facts",
+      "char_length": 422,
+      "word_count": 61,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p1_c1",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 1,
+      "chunk_index": 1,
+      "text": "\u2022 Over three quarters of CVD deaths take place in low- and      middle-income countries. \u2022 Out of the 18 million premature deaths (under the age of 70) due to      noncommunicable diseases in 2021, at least 38% were caused by CVDs. \u2022 Most cardiovascular diseases can be prevented by addressing      behavioural and environmental risk factors such as tobacco use, unhealthy      diet (including excess salt, sugar, and fats) and obesity, physical inactivity, harmful use of alcohol and air pollution.",
+      "section_heading": "## Key facts",
+      "char_length": 499,
+      "word_count": 77,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p1_c2",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 1,
+      "chunk_index": 2,
+      "text": "\u2022 It is important to detect cardiovascular disease as early as      possible so that management with counselling and medicines can begin. ---------------------------------------- ## Overview Cardiovascular diseases (CVDs) are a group of disorders of the heart and blood vessels. They include:",
+      "section_heading": "## Overview",
+      "char_length": 292,
+      "word_count": 40,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p1_c3",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 1,
+      "chunk_index": 3,
+      "text": "Cardiovascular diseases (CVDs) are a group of disorders of the heart and blood vessels. They include: \u2022 coronary heart disease \u2013 a disease of the blood vessels supplying the heart muscle;\n\u2022 cerebrovascular disease \u2013 a disease of the blood vessels supplying the brain;\n\u2022 peripheral arterial disease \u2013 a disease of blood vessels supplying the arms and legs;\n\u2022 rheumatic heart disease \u2013 damage to the heart muscle and heart valves from rheumatic fever, caused by streptococcal bacteria;\n\u2022 congenital heart disease \u2013 birth defects that affect the normal development and functioning of the heart caused by malformations of the heart structure from birth; and\n\u2022 deep vein thrombosis and pulmonary embolism \u2013 blood clots in the leg veins, which can dislodge and move to the heart and lungs.",
+      "section_heading": "## Overview",
+      "char_length": 783,
+      "word_count": 130,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p1_c4",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 1,
+      "chunk_index": 4,
+      "text": "Heart attacks and strokes are usually acute events and are mainly caused by a blockage that prevents blood from flowing to the heart or brain. The most common reason for this is a build-up of fatty deposits on the inner walls of the blood vessels that",
+      "section_heading": "## Overview",
+      "char_length": 251,
+      "word_count": 46,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p2_c0",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 2,
+      "chunk_index": 0,
+      "text": "supply the heart or brain. Strokes can be caused by bleeding from a blood vessel in the brain or from blood clots. ---------------------------------------- ## Risk factors for cardiovascular disease The most important behavioural risk factors of heart disease and stroke are unhealthy diet, physical inactivity, tobacco use and harmful use of alcohol. Amongst environmental risk factors, air pollution is an important factor.",
+      "section_heading": "## Risk factors for cardiovascular disease",
+      "char_length": 425,
+      "word_count": 62,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p2_c1",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 2,
+      "chunk_index": 1,
+      "text": "Amongst environmental risk factors, air pollution is an important factor. The effects of behavioural risk factors may show up in individuals as raised blood pressure, raised blood glucose, raised blood lipids, and overweight and obesity. These \u201cintermediate risks factors\u201d can be measured in primary care facilities and indicate an increased risk of heart attack, stroke, heart failure and other complications.",
+      "section_heading": "## Risk factors for cardiovascular disease",
+      "char_length": 410,
+      "word_count": 60,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p2_c2",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 2,
+      "chunk_index": 2,
+      "text": "Cessation of tobacco use, reduction of salt in the diet, eating more fruit and vegetables, regular physical activity and avoiding harmful use of alcohol have been shown to reduce the risk of cardiovascular disease. Health policies that create conducive environments for making healthy choices affordable and available, as well as improving air quality and reducing pollution, are essential for motivating people to adopt and sustain healthy behaviours.",
+      "section_heading": "## Risk factors for cardiovascular disease",
+      "char_length": 452,
+      "word_count": 67,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p2_c3",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 2,
+      "chunk_index": 3,
+      "text": "There are also a number of underlying determinants of CVDs. These are a reflection of the major forces driving social, economic and cultural change \u2013 globalization, urbanization and population ageing. Other determinants of CVDs include poverty, stress and hereditary factors. In addition, drug treatment of hypertension, diabetes and high blood lipids are necessary to reduce cardiovascular risk and prevent heart attacks and strokes among people with these conditions.",
+      "section_heading": "----------------------------------------",
+      "char_length": 469,
+      "word_count": 68,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p2_c4",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 2,
+      "chunk_index": 4,
+      "text": "---------------------------------------- ## Symptoms of heart attacks and strokes Often, there are no symptoms of the underlying disease of the blood vessels. A heart attack or stroke may be the first sign of underlying disease. Symptoms of a heart attack include: \u2022 pain or discomfort in the centre of the chest; and/or\n\u2022 pain or discomfort in the arms, the left shoulder, elbows, jaw, or back.",
+      "section_heading": "## Symptoms of heart attacks and strokes",
+      "char_length": 395,
+      "word_count": 65,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p3_c0",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 3,
+      "chunk_index": 0,
+      "text": "In addition the person may experience difficulty in breathing or shortness of breath; nausea or vomiting; light-headedness or faintness; a cold sweat; and turning pale. Women are more likely than men to have shortness of breath, nausea, vomiting, and back or jaw pain. The most common symptom of a stroke is sudden weakness of the face, arm, or leg, most often on one side of the body. Other symptoms include sudden onset of:",
+      "section_heading": null,
+      "char_length": 425,
+      "word_count": 73,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p3_c1",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 3,
+      "chunk_index": 1,
+      "text": "Other symptoms include sudden onset of: \u2022 numbness of the face, arm, or leg, especially on one side of the body;\n\u2022 confusion, difficulty speaking or understanding speech;\n\u2022 difficulty seeing with one or both eyes;\n\u2022 difficulty walking, dizziness and/or loss of balance or coordination;\n\u2022 severe headache with no known cause; and/or\n\u2022 fainting or unconsciousness. People experiencing these symptoms should seek medical care immediately. ----------------------------------------",
+      "section_heading": "## Characteristics of rheumatic heart disease",
+      "char_length": 476,
+      "word_count": 68,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p3_c2",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 3,
+      "chunk_index": 2,
+      "text": "---------------------------------------- ## Characteristics of rheumatic heart disease Rheumatic heart disease is caused by damage to the heart valves and heart muscle from the inflammation and scarring caused by rheumatic fever. Rheumatic fever is caused by an abnormal response of the body to infection with streptococcal bacteria, which usually begins as a sore throat or tonsillitis in children. Rheumatic fever mostly affects children in developing countries, especially where poverty is widespread.",
+      "section_heading": "## Characteristics of rheumatic heart disease",
+      "char_length": 504,
+      "word_count": 70,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p3_c3",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 3,
+      "chunk_index": 3,
+      "text": "Globally, about 2% of deaths from cardiovascular diseases are related to rheumatic heart disease. ---------------------------------------- ## Symptoms of rheumatic heart disease Symptoms of rheumatic heart disease include: shortness of breath, fatigue, irregular heartbeats, chest pain and fainting. Symptoms of rheumatic fever include: fever, pain and swelling of the joints, nausea, stomach cramps and vomiting. ----------------------------------------",
+      "section_heading": "----------------------------------------",
+      "char_length": 454,
+      "word_count": 55,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p3_c4",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 3,
+      "chunk_index": 4,
+      "text": "---------------------------------------- ## Why cardiovascular diseases are a development issue in low- and middle-income countries Approximately 80% of the world's deaths from CVDs occur in low- and middle-income countries. People living in low- and middle-income countries often do not have the benefit of primary health care programmes for early detection and treatment of people",
+      "section_heading": "----------------------------------------",
+      "char_length": 382,
+      "word_count": 53,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p4_c0",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 4,
+      "chunk_index": 0,
+      "text": "with risk factors for CVDs. People in low- and middle-income countries who suffer from CVDs and other noncommunicable diseases have less access to effective and equitable health care services which respond to their needs. As a result, for many people in these countries detection is often late in the course of the disease and people die at a younger age from CVDs and other noncommunicable diseases, often in their most productive years.",
+      "section_heading": null,
+      "char_length": 438,
+      "word_count": 72,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p4_c1",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 4,
+      "chunk_index": 1,
+      "text": "The poorest people in low- and middle-income countries are most affected. At the household level, evidence is emerging that CVDs and other noncommunicable diseases contribute to poverty due to catastrophic health spending and high out-of-pocket expenditure. At the macro-economic level, CVDs place a heavy burden on the economies of low- and middle-income countries. ---------------------------------------- ## How the burden of cardiovascular diseases can be reduced",
+      "section_heading": "## How the burden of cardiovascular diseases can be reduced",
+      "char_length": 467,
+      "word_count": 64,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p4_c2",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 4,
+      "chunk_index": 2,
+      "text": "---------------------------------------- ## How the burden of cardiovascular diseases can be reduced The key to cardiovascular disease reduction lies in the inclusion of cardiovascular disease management interventions in universal health coverage packages, although in a high number of countries health systems require significant investment and reorientation to effectively manage CVDs.",
+      "section_heading": "## How the burden of cardiovascular diseases can be reduced",
+      "char_length": 387,
+      "word_count": 49,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p4_c3",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 4,
+      "chunk_index": 3,
+      "text": "to effectively manage CVDs. Evidence from 18 countries has shown that hypertension programmes can be implemented efficiently and cost-effectively at the primary care level which will ultimately result in reduced coronary heart disease and stroke. Patients with cardiovascular disease should have access to appropriate technology and medication. Basic medicines that should be available include:",
+      "section_heading": "## How the burden of cardiovascular diseases can be reduced",
+      "char_length": 394,
+      "word_count": 54,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p4_c4",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 4,
+      "chunk_index": 4,
+      "text": "Basic medicines that should be available include: \u2022 aspirin\n\u2022 beta-blockers\n\u2022 calcium channel blockers\n\u2022 angiotensin-converting enzyme inhibitors\n\u2022 diuretics\n\u2022 statins. An acute event such as a heart attack or stroke should be promptly managed. Sometimes, surgical operations are required to treat CVDs. They include:",
+      "section_heading": "## How the burden of cardiovascular diseases can be reduced",
+      "char_length": 317,
+      "word_count": 47,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p4_c5",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 4,
+      "chunk_index": 5,
+      "text": "Sometimes, surgical operations are required to treat CVDs. They include: \u2022 coronary artery bypass;\n\u2022 balloon angioplasty (where a small balloon-like device is threaded through an artery to open the blockage);\n\u2022 valve repair and replacement;\n\u2022 heart transplantation; and\n\u2022 artificial heart operations.",
+      "section_heading": "## How the burden of cardiovascular diseases can be reduced",
+      "char_length": 300,
+      "word_count": 44,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p5_c0",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 5,
+      "chunk_index": 0,
+      "text": "Medical devices are required to treat some CVDs. Such devices include pacemakers, prosthetic valves, and patches for closing holes in the heart. ---------------------------------------- ## WHO response WHO works to drive and support the implementation of effective actions for the prevention, management, and control of CVDs and their associated risk factors, especially in low- and middle-income countries. To this end, WHO:",
+      "section_heading": "## WHO response",
+      "char_length": 425,
+      "word_count": 60,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p5_c1",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 5,
+      "chunk_index": 1,
+      "text": "To this end, WHO: \u2022 develops evidence-based guidelines and tools for the prevention and management of major noncommunicable diseases, including CVDs;\n\u2022 develops norms and standards for cardiovascular risk assessment, hypertension diagnosis, and CVD care;\n\u2022 raises awareness about the growing global burden of CVDs; and\n\u2022 conducts global surveillance on CVDs and their key risk factors.",
+      "section_heading": "## WHO response",
+      "char_length": 385,
+      "word_count": 57,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p5_c2",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 5,
+      "chunk_index": 2,
+      "text": "In 2016, to further scale up action, WHO launched the Global HEARTS Initiative, aiming to support countries in strengthening CVD prevention and control through primary health care, particularly in low- and middle-income countries. In 2013, WHO Member States agreed on global mechanisms to reduce the avoidable NCD burden including a \"Global action plan for the prevention and control of NCDs 2013-2020\". This Plan has the aim of reducing the number of premature deaths from NCDs by 25% by 2025",
+      "section_heading": "## WHO response",
+      "char_length": 493,
+      "word_count": 79,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p5_c3",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 5,
+      "chunk_index": 3,
+      "text": "This Plan has the aim of reducing the number of premature deaths from NCDs by 25% by 2025 through nine voluntary global targets. Two of the targets directly focus on preventing and controlling CVDs. Target 6: Reduce global prevalence of raised blood pressure by 25% between 2010 and 2025. Target 8: At least 50% of eligible people should receive drug therapy and counselling (including glycaemic control) to prevent heart attacks and strokes by 2025.",
+      "section_heading": "## WHO response",
+      "char_length": 450,
+      "word_count": 74,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p5_c4",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 5,
+      "chunk_index": 4,
+      "text": "In addition, target 9 states that there should be 80% availability of the affordable basic technologies and essential medicines, including generics, required to treat major NCDs in both public and private facilities. Achieving these targets will require significant investment in and strengthening of health systems. WHO is also working on increasing the normative guidance available for the management of acute coronary syndrome and stroke.",
+      "section_heading": "## WHO response",
+      "char_length": 441,
+      "word_count": 64,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    },
+    {
+      "chunk_id": "who_cardiovascular_diseases_p6_c0",
+      "doc_id": "who_cardiovascular_diseases",
+      "filename": "who_cardiovascular_diseases.txt",
+      "page_number": 6,
+      "chunk_index": 0,
+      "text": "----------------------------------------",
+      "section_heading": "----------------------------------------",
+      "char_length": 40,
+      "word_count": 1,
+      "metadata": {
+        "total_pages": 6,
+        "file_type": "txt"
+      }
+    }
+  ]
+}
